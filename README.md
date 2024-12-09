@@ -1,14 +1,14 @@
-Hi there, I'm Anika Ilieva 👋
+Hi there, I'm Anika Ilieva 👋 <br />
 I am a graduate computer science student at the Humboldt University of Berlin. 🧸
 
-## Interests
+### Interests
 
-🤖 - Data Science and ML techniques
-🤗 - NLP research: open neural information extraction and biases in instruction-tuned LLMs
-🌍 - Earth Observation (EO)
-🛰 - Satellite systems for fast and reliable delivery of EO data
+🤖 - Data Science and ML techniques <br />
+🤗 - NLP research: open neural information extraction and biases in instruction-tuned LLMs <br />
+🌍 - Earth Observation (EO) <br />
+🛰 - Satellite systems for fast and reliable delivery of EO data <br />
 
-## Contact
+### Contact
 [LinkedIn](https://www.linkedin.com/in/anika-ilieva-527b50171/)
 <!--
 **anika-ilieva/anika-ilieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
