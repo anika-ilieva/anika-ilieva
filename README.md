@@ -1,4 +1,4 @@
-Hi there, I'm Anika Ilieva 👋 <br />
+Hi there, I'm Anika 👋 <br />
 I am a graduate computer science student at the Humboldt University of Berlin. 🧸
 
 ### Interests
